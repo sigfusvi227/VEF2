@@ -5,5 +5,5 @@ import os
 def index():
   return "Hallo bottlepy!"
   
-run(host=localhost", port=os.environ.get('PORT'))
+run(host="0.0.0.0", port=os.environ.get('PORT'))
 #run(host="localhost", port=8080)
