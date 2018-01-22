@@ -1,1 +1,1 @@
-web: python forrit.py
+web: python verk2.py
